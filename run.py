@@ -3,11 +3,6 @@ WHITE = "white"
 BLACK = "black"
 
 
-
-
-
-
-
 class Game:
     def __init__(self):
         self.playersturn = BLACK
